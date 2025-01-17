@@ -19,6 +19,13 @@ This project uses a simple dataset containing house areas (in sq.m) and their co
 
 Linear regression is chosen for this task as it is easy to understand and widely used for predictive modeling in machine learning.
 
+The goal of this project is to train a linear regression model to predict house prices. The workflow involves:
+
+Training a model using a dataset (homeprices.csv).
+Predicting prices for new areas provided in area.csv.
+Exporting the predictions to a new file (prediction.csv).
+This project is beginner-friendly and demonstrates the key concepts of data loading, model training, and result visualization in machine learning.
+
 ---
 
 ## Technologies Used
