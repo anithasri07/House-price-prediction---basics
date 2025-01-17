@@ -95,26 +95,6 @@ You can add or modify the dataset as required.
 
 ---
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd house-price-prediction
-   ```
-3. Install dependencies (optional, if not already installed):
-   ```bash
-   pip install pandas scikit-learn matplotlib
-   ```
-4. Run the Python script:
-   ```bash
-   python house_price_prediction.py
-   ```
-
----
 
 ## Results
 
